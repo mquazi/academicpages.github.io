@@ -9,7 +9,8 @@ venue: 'Journal of Official Statistics (under review)'
 authors: 'Yan Lu, Mohammed Quazi, and Yang Cheng'
 ---
 
-Abstract: In this research, we propose a longitudinal adjusted design effect model to
+
+>Abstract: In this research, we propose a longitudinal adjusted design effect model to
 provide consistent estimates of variance by incorporating design effect and time
 effect into modeling. Asymptotic properties of some certain type of estimators
 are investigated. Simulation studies show that the proposed method works
