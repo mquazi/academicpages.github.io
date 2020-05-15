@@ -3,7 +3,6 @@ title: "Adjusted Design Effect Model for Longitudinal
 Survey Data"
 collection: publications
 permalink: /research/2020-04-01-Lu-Quazi-Cheng-1
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-04-01
 venue: 'Journal of Official Statistics (under review)'
 authors: 'Yan Lu, Mohammed Quazi, and Yang Cheng'
