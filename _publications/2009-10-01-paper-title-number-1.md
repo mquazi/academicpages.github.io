@@ -1,13 +1,13 @@
 ---
 title: "Adjusted Design Effect Model for Longitudinal
-Survey Data\\Yan Lu, Mohammed Quazi, and Yang Cheng"
+Survey Data"
 collection: publications
 permalink: /research/2020-04-01-Lu-Quazi-Cheng-1
 date: 2020-04-01
 venue: 'Journal of Official Statistics (under review)'
 authors: 'Yan Lu, Mohammed Quazi, and Yang Cheng'
 ---
-
+Yan Lu, Mohammed Quazi, and Yang Cheng
 
 >Abstract: In this research, we propose a longitudinal adjusted design effect model to
 provide consistent estimates of variance by incorporating design effect and time
