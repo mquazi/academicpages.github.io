@@ -11,14 +11,14 @@ venue: 'Journal of Official Statistics'
 authors: 'Yan Lu, Mohammed Quazi, and Yang Cheng'
 ---
 
-Abstract: In this research, we propose a longitudinal adjusted design eect model to
-provide consistent estimates of variance by incorporating design eect and time
+Abstract: In this research, we propose a longitudinal adjusted design effect model to
+provide consistent estimates of variance by incorporating design effect and time
 effect into modeling. Asymptotic properties of some certain type of estimators
 are investigated. Simulation studies show that the proposed method works
 very well and outperforms some existing methods in producing standard error
 estimates.
 Key Words: CPS, design effect, generalized variance function, longitudinal gen-
-eralized variance function, longitudinal adjusted design eect model, simula-
+eralized variance function, longitudinal adjusted design effect model, simula-
 tions.
 
 #This paper is about the number 1. The number 2 is left for future work.
