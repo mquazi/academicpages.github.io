@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mohammed Quazi"
 title_separator          : "-"
 name                     : &name "Mohammed Quazi"
-description              : &description "PhD Student-Statistics-UNM"
+description              : &description "PhD Student-Statistics-University of New Mexico"
 url                      : https://mquazi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mquazi/mquazi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mohammed Quazi"
   avatar           : "profile.png"
-  bio              : "PhD Student-Statistics-UNM"
+  bio              : "PhD Student-Statistics-University of New Mexico"
   location         : "Albuquerque, NM"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
