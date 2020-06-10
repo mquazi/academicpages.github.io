@@ -4,7 +4,7 @@ Survey Data"
 collection: publications
 permalink: /research/2020-04-01-Lu-Quazi-Cheng-1
 date: 2020-04-01
-venue: 'Journal of Official Statistics (under review)'
+venue: '(under review)'
 authors: 'Yan Lu, Mohammed Quazi, and Yang Cheng'
 ---
 Yan Lu, Mohammed Quazi, and Yang Cheng
